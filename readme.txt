@@ -11,7 +11,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */13
-- */1 Readme
+- 1/1 Readme
 - */2 Basic HTML content
 - */2 Basic CSS styling
 - */2 Advanced feature
@@ -42,8 +42,9 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+I did not consult with other classmates. Regarding individuals, I asked to see examples of portfolios from 
+some of my upperclassmen friends to get an idea of what to put in mine for this assignment.
 
 
 6. Is there anything special we need to know in order to run your code?
-
+No, I don't believe so.
