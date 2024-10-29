@@ -46,25 +46,25 @@ EMAIL: jacqun11@uci.edu
     .sidebar {
       position: fixed;
       top: 0;
-      right: -250px;
-      width: 250px;
+      right: -300px;
+      width: 300px;
       height: 100%;
       background-color: black;
-      color: white;
+      color: grey;
       transition: right 0.3s ease;
       padding-top: 60px;
       z-index: 1000;
     }
 
     .sidebar a {
-      color: white;
+      color: grey;
       padding: 15px 20px;
       text-decoration: none;
       display: block;
     }
 
     .sidebar a:hover {
-      background-color:grey
+      background-color:lightgrey;
     }
 
     .sidebar.active {
@@ -84,6 +84,30 @@ EMAIL: jacqun11@uci.edu
 
     .overlay.active {
       display: block;
+    }
+
+    .sidebar .contact-section {
+      margin-top: 20px;
+      padding-left: 20px;
+      font-size: 16px;
+    }
+
+    .sidebar .contact-section p.title {
+      margin: 0 0 2px;
+      color: grey;
+      font-size: 16px;
+    }
+
+    .sidebar .contact-section a {
+      color: grey;
+      text-decoration: none;
+      font-size: 14px;
+      margin-top: 3px;
+      display: inline-block;
+    }
+
+    .sidebar .contact-section a:hover {
+      color: white;
     }
 
     /* images on home page */
@@ -112,9 +136,12 @@ EMAIL: jacqun11@uci.edu
     <div class="menu-icon" onclick="toggleSideBar()">☰</div>
   </header>
   <div class="sidebar" id="sidebar">
-    <a href="#about">about</a>
-    <a href="#resume">resume</a>
-    <a href="#contact">contact</a>
+    <a href="about.html">about</a>
+    <a href="https://drive.google.com/file/d/1DJPSy_C6zcv0hC8fr3-G3pt6yrtRA2SH/view?usp=drive_link">resume</a>
+    <div class="contact-section">
+      <p class="title">contact me @</p>
+      <a href="mailto:jacquelinenguyen1973@gmail.com">jacqun11@uci.edu<br>jacquelinenguyen1973@gmail.com</a>
+    </div>
   </div>
   <div class="overlay" id="overlay" onclick="toggleSideBar()"></div>
   <div class="image-section">
