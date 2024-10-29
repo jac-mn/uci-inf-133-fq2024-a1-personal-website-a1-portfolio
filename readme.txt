@@ -12,12 +12,12 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 */13
 - 1/1 Readme
-- */2 Basic HTML content
-- */2 Basic CSS styling
-- */2 Advanced feature
-- */3 Responsive layout
+- 2/2 Basic HTML content
+- 2/2 Basic CSS styling
+- 2/2 Advanced feature
+- 3/3 Responsive layout
 - */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
@@ -34,17 +34,19 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. How long, in hours, did it take you to complete this assignment?
-
+    The project took my approximately 24 hrs in total to complete. However, 
+    I did work on it in bits and spent most of the time trying to figure out 
+    how I wanted the website to be laid out and looking up how to do code it in order to do that.
 
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
-
+    I used a lot of StackOverflow and looked at other people's portfolios online. 
 
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-I did not consult with other classmates. Regarding individuals, I asked to see examples of portfolios from 
-some of my upperclassmen friends to get an idea of what to put in mine for this assignment.
+    I did not consult with other classmates. Regarding individuals, I asked to see examples of portfolios from 
+    some of my upperclassmen friends to get an idea of what to put in mine for this assignment.
 
 
 6. Is there anything special we need to know in order to run your code?
-No, I don't believe so.
+    No, I don't believe so.
